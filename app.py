@@ -5,7 +5,7 @@ import altair as alt
 import yfinance as yf
 import time
 
-st.set_page_config(page_title="MOEmentum", page_icon="🚀", layout="wide")
+st.set_page_config(page_title="Moementum", page_icon="🚀", layout="wide")
 
 TICKS = {
     "WTI Crude Oil":"CL=F","Brent Crude Oil":"BZ=F","Natural Gas":"NG=F","RBOB Gasoline":"RB=F",
