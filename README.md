@@ -1,4 +1,7 @@
-Moementum 🚀
+Moementum 
+
+🚀 Visit the link to explore the app! 🚀
+https://moementum.streamlit.app/
 
 A lightweight Streamlit app for exploring momentum signals in commodity futures and how they translate into positions and PnL.
 
